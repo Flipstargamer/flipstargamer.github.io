@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm a Roblox Developer getting into other forms of programming.
 
-### More Information
+## Roblox
+I started Roblox Development from around 5 years ago. I'm quite expierenced with the in and outs of luau and Roblox.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Unreal
+I have recently switched over to Unreal due to the amount of features they provide over Roblox. I have more freedom and control over my games.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Projects
+I'm not currently working on any project right now.
